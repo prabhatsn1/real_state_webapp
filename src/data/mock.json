@@ -1,0 +1,626 @@
+{
+  "brand": {
+    "name": "Prestige Realty",
+    "tagline": "Find Where You Belong",
+    "logo": "/logo.svg",
+    "phone": "+1 (555) 200-3000",
+    "email": "hello@prestigerealty.com",
+    "address": "1200 Park Avenue, New York, NY 10128"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Listings", "href": "/listings" },
+    { "label": "Agents", "href": "/agents" },
+    { "label": "Services", "href": "/services" },
+    { "label": "About", "href": "/about" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "hero": {
+    "headline": "Discover Exceptional Homes",
+    "subheadline": "We curate premium real estate experiences — from urban penthouses to serene countryside estates.",
+    "cta": { "label": "Explore Listings", "href": "/listings" },
+    "ctaSecondary": { "label": "Meet Our Agents", "href": "/agents" },
+    "backgroundVideo": null
+  },
+  "stats": [
+    { "value": "1,200+", "label": "Properties Sold" },
+    { "value": "$4.8B", "label": "Total Sales Volume" },
+    { "value": "98%", "label": "Client Satisfaction" },
+    { "value": "25+", "label": "Years of Excellence" }
+  ],
+  "services": [
+    {
+      "id": "s1",
+      "icon": "HomeWork",
+      "title": "Residential Sales",
+      "description": "Expert guidance through every stage of buying or selling your home, backed by deep local market knowledge."
+    },
+    {
+      "id": "s2",
+      "icon": "Apartment",
+      "title": "Luxury Rentals",
+      "description": "Curated portfolio of premium rental properties — from city penthouses to waterfront villas."
+    },
+    {
+      "id": "s3",
+      "icon": "Business",
+      "title": "Commercial Real Estate",
+      "description": "Strategic advisory for office, retail, and investment properties in key metropolitan markets."
+    },
+    {
+      "id": "s4",
+      "icon": "Assessment",
+      "title": "Property Valuation",
+      "description": "Accurate, data-driven valuations using proprietary market analytics and comparable sales data."
+    },
+    {
+      "id": "s5",
+      "icon": "ManageAccounts",
+      "title": "Property Management",
+      "description": "Full-service management covering tenant relations, maintenance, and financial reporting."
+    },
+    {
+      "id": "s6",
+      "icon": "AccountBalance",
+      "title": "Mortgage Advisory",
+      "description": "Access to preferred lending partners for competitive rates and tailored financing solutions."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "author": "Sarah & Matt Lawson",
+      "role": "Home Buyers",
+      "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=80&h=80&fit=crop&crop=face",
+      "quote": "Prestige Realty made our dream home a reality. Their team was attentive, professional, and found us exactly what we were looking for within our budget.",
+      "rating": 5
+    },
+    {
+      "id": "t2",
+      "author": "James Okafor",
+      "role": "Property Investor",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop&crop=face",
+      "quote": "The commercial advisory team provided invaluable insights that helped me expand my portfolio with confidence. ROI exceeded projections by 20%.",
+      "rating": 5
+    },
+    {
+      "id": "t3",
+      "author": "Priya Mehta",
+      "role": "Luxury Renter",
+      "avatar": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?w=80&h=80&fit=crop&crop=face",
+      "quote": "From the first showing to move-in day, the experience was seamless. The apartment is everything I pictured and more. Absolutely five-star service.",
+      "rating": 5
+    }
+  ],
+  "faq": [
+    {
+      "id": "f1",
+      "question": "How do I start the home buying process?",
+      "answer": "Begin with a free consultation with one of our agents. We'll assess your needs, budget, and timeline, then guide you through pre-approval, property search, offers, and closing."
+    },
+    {
+      "id": "f2",
+      "question": "What fees do you charge sellers?",
+      "answer": "Our commission is competitive and transparent. Contact us for a personalized breakdown — we offer flexible options for luxury and standard listings."
+    },
+    {
+      "id": "f3",
+      "question": "Do you handle rentals as well as sales?",
+      "answer": "Yes. We manage short-term and long-term rentals across our entire portfolio and can help you find the perfect rental property or tenant."
+    },
+    {
+      "id": "f4",
+      "question": "How long does it take to sell a property?",
+      "answer": "Average days on market vary by location and price point. In our core markets, well-priced homes sell in 21–45 days. We'll give you a precise estimate at listing time."
+    },
+    {
+      "id": "f5",
+      "question": "Can I list my property even if it needs renovations?",
+      "answer": "Absolutely. We offer pre-sale renovation advisory and can connect you with our trusted contractor network to maximise your sale price."
+    }
+  ],
+  "about": {
+    "headline": "Two Decades of Trusted Excellence",
+    "body": "Founded in 1999, Prestige Realty has grown from a boutique Manhattan agency into one of the most respected real estate firms in the Northeast. Our philosophy is simple: put the client first, always.",
+    "mission": "To deliver unparalleled real estate experiences built on transparency, expertise, and genuine care for every client.",
+    "timeline": [
+      { "year": 1999, "event": "Founded in Manhattan's Upper East Side" },
+      { "year": 2005, "event": "Expanded to Brooklyn and Queens markets" },
+      { "year": 2010, "event": "Opened our Hamptons luxury division" },
+      { "year": 2015, "event": "Surpassed $1B in annual sales volume" },
+      { "year": 2019, "event": "Launched commercial and investment advisory" },
+      { "year": 2024, "event": "Named #1 boutique agency in New York" }
+    ]
+  },
+  "agents": [
+    {
+      "id": "a1",
+      "name": "Alexandra Rivera",
+      "title": "Senior Sales Agent",
+      "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop&crop=face",
+      "email": "arivera@prestigerealty.com",
+      "phone": "+1 (555) 201-1001",
+      "bio": "Alexandra has 12 years of experience specialising in Manhattan luxury properties. Her deep market knowledge and white-glove service have helped hundreds of clients find their perfect home.",
+      "specialties": ["Luxury Residential", "New Developments", "Investment"],
+      "languages": ["English", "Spanish"],
+      "location": "Manhattan, NY",
+      "salesCount": 284,
+      "listingIds": ["l1", "l3", "l7"]
+    },
+    {
+      "id": "a2",
+      "name": "David Chen",
+      "title": "Commercial Specialist",
+      "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop&crop=face",
+      "email": "dchen@prestigerealty.com",
+      "phone": "+1 (555) 201-1002",
+      "bio": "David brings a finance background to real estate, giving investors a data-driven edge. Specialising in commercial and mixed-use properties across the tri-state area.",
+      "specialties": ["Commercial", "Mixed-Use", "Investment Advisory"],
+      "languages": ["English", "Mandarin"],
+      "location": "Brooklyn, NY",
+      "salesCount": 197,
+      "listingIds": ["l2", "l5"]
+    },
+    {
+      "id": "a3",
+      "name": "Simone Dubois",
+      "title": "Luxury Rentals Director",
+      "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop&crop=face",
+      "email": "sdubois@prestigerealty.com",
+      "phone": "+1 (555) 201-1003",
+      "bio": "Simone curates exceptional rental experiences for discerning clients. Her portfolio spans Tribeca lofts to the Hamptons, with an eye for design and lifestyle fit.",
+      "specialties": ["Luxury Rentals", "Hamptons", "Interior Design Advisory"],
+      "languages": ["English", "French"],
+      "location": "Tribeca, NY",
+      "salesCount": 156,
+      "listingIds": ["l4", "l6", "l8"]
+    },
+    {
+      "id": "a4",
+      "name": "Marcus Johnson",
+      "title": "Residential Buyer Specialist",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
+      "email": "mjohnson@prestigerealty.com",
+      "phone": "+1 (555) 201-1004",
+      "bio": "Marcus is passionate about helping first-time buyers navigate the market with confidence. Known for his patience, thorough research, and strong negotiation skills.",
+      "specialties": ["First-Time Buyers", "Residential", "Negotiation"],
+      "languages": ["English"],
+      "location": "Queens, NY",
+      "salesCount": 211,
+      "listingIds": ["l9", "l10"]
+    }
+  ],
+  "listings": [
+    {
+      "id": "l1",
+      "title": "Central Park Penthouse",
+      "slug": "central-park-penthouse",
+      "type": "condo",
+      "status": "for-sale",
+      "price": 8500000,
+      "location": {
+        "city": "New York",
+        "neighbourhood": "Upper West Side",
+        "address": "88 Central Park West, Apt PH",
+        "lat": 40.7739,
+        "lng": -73.9815
+      },
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "area": 3200,
+      "areaUnit": "sqft",
+      "yearBuilt": 2018,
+      "description": "A crown jewel above Central Park. This full-floor penthouse offers panoramic park and skyline views from every room. Featuring chef's kitchen, private terrace, and a bespoke master suite.",
+      "features": [
+        "Private Terrace",
+        "Chef's Kitchen",
+        "Floor-to-Ceiling Windows",
+        "Concierge",
+        "Private Elevator",
+        "Home Theater"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a1",
+      "featured": true
+    },
+    {
+      "id": "l2",
+      "title": "Williamsburg Creative Loft",
+      "slug": "williamsburg-creative-loft",
+      "type": "loft",
+      "status": "for-sale",
+      "price": 1950000,
+      "location": {
+        "city": "Brooklyn",
+        "neighbourhood": "Williamsburg",
+        "address": "42 N 6th Street, Unit 5A",
+        "lat": 40.7175,
+        "lng": -73.9583
+      },
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1800,
+      "areaUnit": "sqft",
+      "yearBuilt": 2015,
+      "description": "Industrial chic meets modern comfort in this stunning Williamsburg loft. Exposed brick, 14-foot ceilings, and massive windows flood the space with natural light.",
+      "features": [
+        "Exposed Brick",
+        "14ft Ceilings",
+        "Roof Deck Access",
+        "In-Unit W/D",
+        "Bike Storage",
+        "Pet Friendly"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a2",
+      "featured": true
+    },
+    {
+      "id": "l3",
+      "title": "Tribeca Grand Residence",
+      "slug": "tribeca-grand-residence",
+      "type": "apartment",
+      "status": "for-sale",
+      "price": 5200000,
+      "location": {
+        "city": "New York",
+        "neighbourhood": "Tribeca",
+        "address": "200 Chambers Street, Unit 12B",
+        "lat": 40.7157,
+        "lng": -74.0089
+      },
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 2400,
+      "areaUnit": "sqft",
+      "yearBuilt": 2020,
+      "description": "Elegance defined. This Tribeca residence combines pre-war character with contemporary finishes. Soaring ceilings, wide-plank hardwood floors, and a chef-approved kitchen.",
+      "features": [
+        "Pre-War Architecture",
+        "Wide-Plank Floors",
+        "Wine Room",
+        "Doorman",
+        "Gym",
+        "Storage"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a1",
+      "featured": true
+    },
+    {
+      "id": "l4",
+      "title": "Hamptons Oceanfront Estate",
+      "slug": "hamptons-oceanfront-estate",
+      "type": "house",
+      "status": "for-sale",
+      "price": 14500000,
+      "location": {
+        "city": "Southampton",
+        "neighbourhood": "Shinnecock Hills",
+        "address": "1 Ocean Drive",
+        "lat": 40.8832,
+        "lng": -72.3855
+      },
+      "bedrooms": 7,
+      "bathrooms": 8,
+      "area": 9500,
+      "areaUnit": "sqft",
+      "yearBuilt": 2016,
+      "description": "The pinnacle of Hamptons luxury. This oceanfront masterpiece spans nearly an acre with 200 feet of private beach, a heated pool, tennis court, and a guest house.",
+      "features": [
+        "Private Beach",
+        "Heated Pool",
+        "Tennis Court",
+        "Guest House",
+        "Home Gym",
+        "5-Car Garage"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a3",
+      "featured": true
+    },
+    {
+      "id": "l5",
+      "title": "Midtown Office Tower Suite",
+      "slug": "midtown-office-tower-suite",
+      "type": "commercial",
+      "status": "for-lease",
+      "price": 125000,
+      "location": {
+        "city": "New York",
+        "neighbourhood": "Midtown",
+        "address": "350 Fifth Avenue, Floor 22",
+        "lat": 40.7484,
+        "lng": -73.9967
+      },
+      "bedrooms": 0,
+      "bathrooms": 4,
+      "area": 8500,
+      "areaUnit": "sqft",
+      "yearBuilt": 2003,
+      "description": "Prime Midtown commercial space with Empire State Building views. Fully built-out Class A office suite with private conference rooms, reception, and 24/7 access.",
+      "features": [
+        "Empire State Views",
+        "Class A Office",
+        "Conference Rooms",
+        "24/7 Access",
+        "Fiber Internet",
+        "Kitchenette"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a2",
+      "featured": false
+    },
+    {
+      "id": "l6",
+      "title": "Luxury High-Rise Rental",
+      "slug": "luxury-high-rise-rental",
+      "type": "apartment",
+      "status": "for-rent",
+      "price": 12500,
+      "location": {
+        "city": "New York",
+        "neighbourhood": "Hell's Kitchen",
+        "address": "600 W 58th Street, Unit 34A",
+        "lat": 40.7715,
+        "lng": -73.9891
+      },
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1100,
+      "areaUnit": "sqft",
+      "yearBuilt": 2022,
+      "description": "Sky-high living in a brand-new luxury tower. Floor-to-ceiling windows, designer finishes, and world-class amenities including rooftop pool and private cinema.",
+      "features": [
+        "Rooftop Pool",
+        "Private Cinema",
+        "Concierge",
+        "Fitness Center",
+        "Dog Spa",
+        "Valet Parking"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a3",
+      "featured": false
+    },
+    {
+      "id": "l7",
+      "title": "Park Slope Brownstone",
+      "slug": "park-slope-brownstone",
+      "type": "house",
+      "status": "for-sale",
+      "price": 3750000,
+      "location": {
+        "city": "Brooklyn",
+        "neighbourhood": "Park Slope",
+        "address": "217 7th Avenue",
+        "lat": 40.6702,
+        "lng": -73.9799
+      },
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 4200,
+      "areaUnit": "sqft",
+      "yearBuilt": 1895,
+      "description": "A meticulously restored 1895 brownstone with all modern upgrades. Original tin ceilings, ornate fireplaces, and a private garden in the heart of Park Slope.",
+      "features": [
+        "Private Garden",
+        "Original Fireplaces",
+        "Tin Ceilings",
+        "Finished Basement",
+        "Solar Panels",
+        "Smart Home"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a1",
+      "featured": false
+    },
+    {
+      "id": "l8",
+      "title": "Soho Artist's Duplex",
+      "slug": "soho-artists-duplex",
+      "type": "loft",
+      "status": "for-rent",
+      "price": 18000,
+      "location": {
+        "city": "New York",
+        "neighbourhood": "SoHo",
+        "address": "450 Broome Street, Unit 3B",
+        "lat": 40.7232,
+        "lng": -74.0002
+      },
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "area": 2600,
+      "areaUnit": "sqft",
+      "yearBuilt": 2008,
+      "description": "A magnificent SoHo duplex occupying a converted cast-iron building. Gallery-white walls, multiple skylights, and a spiral staircase — an artist's dream.",
+      "features": [
+        "Multiple Skylights",
+        "Cast-Iron Building",
+        "Spiral Staircase",
+        "Private Entrance",
+        "Chef's Kitchen",
+        "Private Terrace"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a3",
+      "featured": false
+    },
+    {
+      "id": "l9",
+      "title": "Astoria Family Home",
+      "slug": "astoria-family-home",
+      "type": "house",
+      "status": "for-sale",
+      "price": 1250000,
+      "location": {
+        "city": "Queens",
+        "neighbourhood": "Astoria",
+        "address": "32-15 31st Street",
+        "lat": 40.7713,
+        "lng": -73.9362
+      },
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "area": 2100,
+      "areaUnit": "sqft",
+      "yearBuilt": 1952,
+      "description": "A charming, well-maintained Astoria family home with original hardwood floors, a large backyard, and proximity to great schools, restaurants, and the N/W subway.",
+      "features": [
+        "Large Backyard",
+        "Hardwood Floors",
+        "Finished Attic",
+        "Driveway",
+        "New Roof 2022",
+        "Near N/W Train"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a4",
+      "featured": false
+    },
+    {
+      "id": "l10",
+      "title": "Jackson Heights Co-op",
+      "slug": "jackson-heights-coop",
+      "type": "condo",
+      "status": "for-sale",
+      "price": 685000,
+      "location": {
+        "city": "Queens",
+        "neighbourhood": "Jackson Heights",
+        "address": "87-30 Northern Blvd, Apt 4E",
+        "lat": 40.7499,
+        "lng": -73.8913
+      },
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": 950,
+      "areaUnit": "sqft",
+      "yearBuilt": 1965,
+      "description": "Bright and airy co-op in the heart of Jackson Heights. Updated kitchen and bath, generous closet space, and a welcoming community with low maintenance fees.",
+      "features": [
+        "Low Maintenance",
+        "Updated Kitchen",
+        "Pre-War Charm",
+        "Live-in Super",
+        "Laundry in Building",
+        "Near 7 Train"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1565182999561-18d7dc61c393?w=1200&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&h=800&fit=crop"
+      ],
+      "agentId": "a4",
+      "featured": false
+    }
+  ],
+  "featuredListingIds": ["l1", "l2", "l3", "l4"],
+  "footer": {
+    "quickLinks": [
+      { "label": "Listings", "href": "/listings" },
+      { "label": "Agents", "href": "/agents" },
+      { "label": "Services", "href": "/services" },
+      { "label": "About", "href": "/about" },
+      { "label": "FAQ", "href": "/faq" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "legal": [
+      { "label": "Privacy Policy", "href": "/privacy" },
+      { "label": "Terms of Service", "href": "/terms" }
+    ],
+    "social": [
+      { "platform": "instagram", "href": "https://instagram.com" },
+      { "platform": "twitter", "href": "https://twitter.com" },
+      { "platform": "linkedin", "href": "https://linkedin.com" },
+      { "platform": "facebook", "href": "https://facebook.com" }
+    ],
+    "copyright": "© 2025 Prestige Realty. All rights reserved."
+  },
+  "policies": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "2025-01-15",
+      "sections": [
+        {
+          "heading": "Information We Collect",
+          "body": "We collect information you provide directly to us, including when you fill out contact forms, create an account, or communicate with our agents. This includes name, email address, phone number, and any messages you send."
+        },
+        {
+          "heading": "How We Use Your Information",
+          "body": "We use the information we collect to respond to your enquiries, provide our real estate services, send you relevant listings and updates (with your consent), and improve our platform."
+        },
+        {
+          "heading": "Data Security",
+          "body": "We implement industry-standard security measures to protect your personal information. All data is encrypted in transit and at rest. We never sell your information to third parties."
+        },
+        {
+          "heading": "Cookies",
+          "body": "Our website uses essential cookies to provide core functionality and analytics cookies to understand usage patterns. You may opt out of analytics cookies via your browser settings."
+        },
+        {
+          "heading": "Contact Us",
+          "body": "If you have any questions about this Privacy Policy or how we handle your data, please contact us at privacy@prestigerealty.com or at our office address."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "lastUpdated": "2025-01-15",
+      "sections": [
+        {
+          "heading": "Acceptance of Terms",
+          "body": "By accessing or using the Prestige Realty website, you agree to be bound by these Terms of Service and our Privacy Policy. If you do not agree, please do not use our services."
+        },
+        {
+          "heading": "Use of Services",
+          "body": "You may use our services for lawful purposes only. You may not use our platform to scrape data, send spam, or engage in any activity that could harm our systems or other users."
+        },
+        {
+          "heading": "Listing Accuracy",
+          "body": "While we strive for accuracy, property listings are provided for informational purposes. Prices, availability, and details may change. Always verify information directly with an agent."
+        },
+        {
+          "heading": "Intellectual Property",
+          "body": "All content on this website — including images, text, and branding — is the property of Prestige Realty or its licensors. Unauthorised reproduction is prohibited."
+        },
+        {
+          "heading": "Limitation of Liability",
+          "body": "Prestige Realty shall not be liable for any indirect, incidental, or consequential damages arising from your use of our services or reliance on listing information."
+        }
+      ]
+    }
+  }
+}
