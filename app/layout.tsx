@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { MuiProvider } from "@/theme/MuiProvider";
 import "./globals.css";
 
@@ -25,6 +26,7 @@ export default function RootLayout({
     <html lang="en" data-scroll-behavior="smooth">
       <body>
         <MuiProvider>{children}</MuiProvider>
+        <Analytics />
       </body>
     </html>
   );
